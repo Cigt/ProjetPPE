@@ -21,5 +21,15 @@ namespace ppe1
         {
 
         }
+
+        private void Pays_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void grpBCreaPays_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }
